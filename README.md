@@ -1,6 +1,5 @@
 
-// Write a program in c to print a simple calculator
-
+// **Write a program in c to print a simple calculator**
 
 #include<stdio.h>
 
