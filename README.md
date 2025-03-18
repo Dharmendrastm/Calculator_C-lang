@@ -1,5 +1,7 @@
 
 // Write a program in c to print a simple calculator
+
+
 #include<stdio.h>
 int main (){
     printf("Simple Calculator");
